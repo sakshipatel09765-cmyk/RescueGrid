@@ -169,12 +169,12 @@ Changes in the field feed back into prioritization, allocation, and routing.
                                  ▼
 ┌────────────────────────────────────────────────────────┐
 │                  INPUT CHANNELS                        │
-│       SMS   │   Web Form   │   WhatsApp   │   Voice   │
+│       SMS   │   Web Form   │   WhatsApp   │   Voice    │
 └───────────────────────────┬────────────────────────────┘
                             │
                             ▼
                  ┌─────────────────────┐
-                 │ AI Request Parser    │
+                 │ AI Request Parser   │
                  └──────────┬──────────┘
                             │
                             ▼
@@ -184,17 +184,17 @@ Changes in the field feed back into prioritization, allocation, and routing.
                             │
                             ▼
                  ┌─────────────────────┐
-                 │ Resource Allocation  │
+                 │ Resource Allocation │
                  └──────────┬──────────┘
                             │
                             ▼
                  ┌─────────────────────┐
-                 │ Route Optimization   │
+                 │ Route Optimization  │
                  └──────────┬──────────┘
                             │
                             ▼
                  ┌─────────────────────┐
-                 │ Command Center       │
+                 │ Command Center      │
                  └──────────┬──────────┘
                             │
                             ▼
